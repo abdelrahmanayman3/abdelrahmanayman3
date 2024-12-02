@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer since & software programing
 - Always learn another things in programing
 - focus in my steps
-- 💞Beliver in my abilities
+- Beliver in my abilities
 
 
 <!---
