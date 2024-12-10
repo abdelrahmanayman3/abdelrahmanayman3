@@ -78,7 +78,7 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)
 
 ## 💼 Work and Jobs
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/AbdelrahmanAyman1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/Abdelrahman_Ayman1)
 ## 🏆 GitHub Trophies
 ![abdelrahman ayman's Trophies](https://github-trophies.vercel.app/?username=abdelrahmanayman3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
