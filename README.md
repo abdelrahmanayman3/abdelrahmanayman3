@@ -6,14 +6,11 @@
 
 ## 💫 About Me
 
-- I am a passionate front-end developer dedicated to user-centered design.
+- I am a front-end developer dedicated to user-centered design.
 
 
 - A creative problem solver.
 
-
-## 📜 Certifications
-- **[My certifications](https://github.com/abdelrahmanayman3/Certificates "Go to my certification repo")**
 
 ## 🤝 Connect with me
 
@@ -42,14 +39,14 @@
 
   - #### 💻 IDE/Code Editors
     ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-    ![Cursor](https://custom-icon-badges.demolab.com/badge/cursor_ide-000000.svg?logo=cursor_ide&logoColor=white)
+    
     
   - #### 🔖 Version Control System
     ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
     ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
   
   - #### 🎨 Design
-    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
+  
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
   
   - #### 🤖 Artificial Intelligence
