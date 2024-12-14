@@ -1,14 +1,13 @@
 # Hi there 👋 I'm abdelrahman ayman
 ## Front-End Web developer
 ## Programming Instructor
-<div align="center">
-  <picture><img src="https://komarev.com/ghpvc/?username=philopaterhany&color=673ab7&style=for-the-badge" alt="Profile Views" /></picture>
 
-</div>
 ![Profile Views](https://komarev.com/ghpvc/?username=abdelrahmanayman3&label=Profile%20views&color=0e75b6&style=flat)
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 💫 About Me
+<picture>
+  <img width="400" height="300" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" /></picture>&nbsp;
 
 - I am a front-end developer dedicated to user-centered design.
 
