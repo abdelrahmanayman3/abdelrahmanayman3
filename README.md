@@ -13,15 +13,13 @@
 
 
 ## 🤝 Connect with me
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/Abdelrahmanayman3)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+201275152550)
 
 ## 🧳 Tech Stack
 
 - ### Markup Language
   ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-  ![Template Engine](https://img.shields.io/badge/-PugJs-05122A?style=flat&logo=Pug)
-  ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 
 - ### 🎨 Styling
   ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
@@ -58,14 +56,12 @@
     ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
     ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
   
-- ### ☁️ Cloud Systems
-  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
+
 
 - ### Content Management System
   ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
 
 - ### Learning Management System
-  ![moodle (LMS)](https://img.shields.io/badge/Moodle-F24E1E?logo=moodle&logoColor=white)
   
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
