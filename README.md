@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 <picture>
-  <img width="400" height="300" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" /></picture>&nbsp;
+  <img width="400" height="300" align="center" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" /></picture>&nbsp;
 
 - I am a front-end developer dedicated to user-centered design.
 
